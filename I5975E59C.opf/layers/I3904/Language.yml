@@ -1,0 +1,99 @@
+id: 73d08eaf389a45bcbe79a60493cf2d3f
+annotation_type: Language
+revision: '00001'
+annotations:
+  ae02ce9568694bc9bf5ad61bae379242:
+    span:
+      start: 40
+      end: 1133
+    language: en
+  0e448ee89eb9444d994c0439d56efa8c:
+    span:
+      start: 1180
+      end: 1337
+    language: en
+  e0efb3600e144f0689bcdcf4bf9c0772:
+    span:
+      start: 1691
+      end: 1724
+    language: en
+  91a2323983c3415585f9c1f2c42b979b:
+    span:
+      start: 1970
+      end: 2000
+    language: en
+  255e82ebc0b7446c92882a6612efc409:
+    span:
+      start: 2323
+      end: 2423
+    language: en
+  b23b060dc5124716922b237b963dd50e:
+    span:
+      start: 2682
+      end: 2759
+    language: en
+  ab8b754b21204fefbbf5cfe791d6df27:
+    span:
+      start: 167401
+      end: 167530
+    language: en
+  cb488d8b3dc04bd3a994b043a83292af:
+    span:
+      start: 188038
+      end: 188164
+    language: en
+  717b4acee72843bca47ad28396ed2cde:
+    span:
+      start: 248451
+      end: 248489
+    language: en
+  750b40a2fd914009973477e30f83e76c:
+    span:
+      start: 253256
+      end: 253406
+    language: en
+  c0944f26127b4ce78eeb71562e6a821f:
+    span:
+      start: 265489
+      end: 265627
+    language: en
+  bcb3bf8ff6de458486dee9104bc2108f:
+    span:
+      start: 300694
+      end: 300829
+    language: en
+  c00484468f124d15886a25a7af39d492:
+    span:
+      start: 305689
+      end: 305831
+    language: en
+  92775336b36948699ddd28fbefd582e5:
+    span:
+      start: 369548
+      end: 369732
+    language: en
+  aa1531bfc825408e8d7f7b76b437c006:
+    span:
+      start: 369755
+      end: 369790
+    language: en
+  965eb33a6e0c408f820adbf90502cfa1:
+    span:
+      start: 420828
+      end: 420849
+    language: en
+  d95686ef9ce44e328ba92d790772bd71:
+    span:
+      start: 446245
+      end: 446282
+    language: en
+  44ef8145f7f14e18829aabba88c960de:
+    span:
+      start: 454721
+      end: 454839
+    language: en
+  bec03e85edb948a79c28c931701b182b:
+    span:
+      start: 464828
+      end: 464848
+    language: en
